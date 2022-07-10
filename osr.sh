@@ -1,0 +1,5 @@
+python osr.py --dataset 'mnist' --fake_ratio 0.1 --smoothing 0.5 --smoothing2 1.0 --optimizer 'sgd'
+python osr.py --dataset 'cifar10' --fake_ratio 0.1 --smoothing 0.5 --smoothing2 1.0 --optimizer 'sgd'
+python osr.py --dataset 'cifar100' --out-num 10 --fake_ratio 0.1 --smoothing 0.5 --smoothing2 1.0 --optimizer 'sgd'
+python osr.py --dataset 'cifar100' --out-num 50 --fake_ratio 0.1 --smoothing 0.5 --smoothing2 1.0 --optimizer 'sgd'
+python osr.py --dataset 'svhn' --fake_ratio 0.1 --smoothing 0.5 --smoothing2 1.0 --optimizer 'sgd'
