@@ -2,11 +2,6 @@
 Official PyTorch Repository of "Difficulty-Aware Simulator for Open Set Recognition" (ECCV 2022 Paper)
 
 ## 1. Requirements
-To run the code, you need to install requirements below.
-We suggest to work with torch version (1.2 ~ 1.7.1).
-Other versions may work fine but we haven't tested them.
-
-### Environments
 - python 3.6+
 - torch 1.2+
 - torchvision 0.4+
@@ -25,7 +20,7 @@ When you run the code, datasets except tiny-ImageNet will be automatically downl
 ```train
 python osr.py --dataset 'cifar10'
 ```
-To run the code, execute `osr.py` like above.
+To run the code, execute `osr.py`.
 Then, the results will be saved under the "logs" directory.
 
 ```
