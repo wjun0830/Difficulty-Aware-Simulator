@@ -1,4 +1,7 @@
 # Difficulty-Aware-Simulator-for-Open-Set-Recognition
+[Arxiv](https://arxiv.org/abs/2207.10024)
+[]()
+
 Official PyTorch Repository of "Difficulty-Aware Simulator for Open Set Recognition" (ECCV 2022 Paper)
 
 ## 1. Requirements
@@ -41,7 +44,12 @@ You can execute the shell file by the above command.
 
 If you find this repository useful, please use the following entry for citation.
 ```
-
+@article{moon2022difficulty,
+  title={Difficulty-Aware Simulator for Open Set Recognition},
+  author={Moon, WonJun and Park, Junho and Seong, Hyun Seok and Cho, Cheol-Ho and Heo, Jae-Pil},
+  journal={arXiv preprint arXiv:2207.10024},
+  year={2022}
+}
 ```
 
 ## Contributors and Contact
