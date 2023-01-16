@@ -19,6 +19,8 @@ Split information for all datasets can be found in `split.py`.
 
 When you run the code, datasets except tiny-ImageNet will be automatically downloaded.
 
+[[Tiny_ImageNet Download Link](https://drive.google.com/file/d/1Z0cHrTVZxjOCBol5jrQASYucWXVB0I4i/view?usp=share_link)]
+
 ## 2. Training & Evaluation
 ```train
 python osr.py --dataset 'cifar10'
