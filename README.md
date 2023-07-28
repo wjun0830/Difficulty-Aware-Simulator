@@ -1,6 +1,6 @@
 # Difficulty-Aware-Simulator-for-Open-Set-Recognition
-[[Arxiv](https://arxiv.org/abs/2207.10024)] | [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136850360.pdf)]
-[]()
+[[Arxiv](https://arxiv.org/abs/2207.10024)] | [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136850360.pdf)] |
+[[Video](https://www.youtube.com/watch?v=0_q9wxDIYbE&ab_channel=WonJunMoon)]
 
 Official PyTorch Repository of "Difficulty-Aware Simulator for Open Set Recognition" (ECCV 2022 Paper)
 
